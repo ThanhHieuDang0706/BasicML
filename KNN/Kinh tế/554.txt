@@ -1,0 +1,2 @@
+Trải nghiệm thanh toán QR Pay của VietinBank trên Freedoo
+Đây là hình thức kinh doanh dựa trên cộng đồng và sử dụng phương thức thanh toán QR Pay của VietinBank.Freedoo là một sân chơi thú vị đa tiện ích dành cho cộng đồng. Khách hàng chỉ cần có Internet và các thiết bị di động, ở mọi lúc, mọi nơi đều có thể trở thành cộng tác viên/tư vấn viên của VNPT. Việc hòa mạng, chọn số, chọn gói cước, thanh toán trên Freedoo đều thực hiện được trên môi trường online, khách hàng không phải đi ra điểm giao dịch.
